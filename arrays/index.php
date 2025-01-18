@@ -28,7 +28,10 @@ echo "<br>";
 
 $arrAssoc = [];
 $arrAssoc["carro"] = "BMW";
-
 print_r($arr);
+echo "<br>";
+
+$arrAssoc["avião"] = "Boeing";
+print_r($arrAssoc);
 echo "<br>";
 
